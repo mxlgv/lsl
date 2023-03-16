@@ -1,2 +1,2 @@
 # lsl
-An analogue of ls -l written by me for fun
+An analogue of `ls -l` written by me for fun.
